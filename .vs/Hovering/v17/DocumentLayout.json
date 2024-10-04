@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B807D960-1D12-9CD2-5B56-6804D18CBDA3}|Assembly-CSharp.csproj|c:\\users\\yagmur\\source\\repos\\unity\\unity3d\\hovering\\assets\\scripts\\quitapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B807D960-1D12-9CD2-5B56-6804D18CBDA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quitapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B807D960-1D12-9CD2-5B56-6804D18CBDA3}|Assembly-CSharp.csproj|C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\assets\\scripts\\collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B807D960-1D12-9CD2-5B56-6804D18CBDA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B807D960-1D12-9CD2-5B56-6804D18CBDA3}|Assembly-CSharp.csproj|C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B807D960-1D12-9CD2-5B56-6804D18CBDA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B807D960-1D12-9CD2-5B56-6804D18CBDA3}|Assembly-CSharp.csproj|C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\assets\\scripts\\oscilattor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B807D960-1D12-9CD2-5B56-6804D18CBDA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oscilattor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B807D960-1D12-9CD2-5B56-6804D18CBDA3}|Assembly-CSharp.csproj|C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\assets\\scripts\\rotatingsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B807D960-1D12-9CD2-5B56-6804D18CBDA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotatingsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B807D960-1D12-9CD2-5B56-6804D18CBDA3}|Assembly-CSharp.csproj|C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\assets\\scripts\\sticks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B807D960-1D12-9CD2-5B56-6804D18CBDA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sticks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B807D960-1D12-9CD2-5B56-6804D18CBDA3}|Assembly-CSharp.csproj|C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\assets\\scripts\\drop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B807D960-1D12-9CD2-5B56-6804D18CBDA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\drop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B807D960-1D12-9CD2-5B56-6804D18CBDA3}|Assembly-CSharp.csproj|C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\assets\\scripts\\collisionfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B807D960-1D12-9CD2-5B56-6804D18CBDA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collisionfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B807D960-1D12-9CD2-5B56-6804D18CBDA3}|Assembly-CSharp.csproj|c:\\users\\yagmur\\source\\repos\\unity\\unity3d\\hovering\\assets\\scripts\\oscilattor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B807D960-1D12-9CD2-5B56-6804D18CBDA3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oscilattor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuitApp.cs",
+              "DocumentMoniker": "C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\Assets\\Scripts\\QuitApp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuitApp.cs",
+              "ToolTip": "C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\Assets\\Scripts\\QuitApp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuitApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:37:53.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Oscilattor1.cs",
+              "DocumentMoniker": "C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\Assets\\Scripts\\Oscilattor1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Oscilattor1.cs",
+              "ToolTip": "C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\Assets\\Scripts\\Oscilattor1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Oscilattor1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:02:09.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CollisionFirst.cs",
+              "DocumentMoniker": "C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\Assets\\Scripts\\CollisionFirst.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CollisionFirst.cs",
+              "ToolTip": "C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\Assets\\Scripts\\CollisionFirst.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CollisionFirst.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:17:31.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Drop.cs",
+              "DocumentMoniker": "C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\Assets\\Scripts\\Drop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Drop.cs",
+              "ToolTip": "C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\Assets\\Scripts\\Drop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Drop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T22:47:02.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sticks.cs",
+              "DocumentMoniker": "C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\Assets\\Scripts\\Sticks.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sticks.cs",
+              "ToolTip": "C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\Assets\\Scripts\\Sticks.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sticks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:51:49.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RotatingSquare.cs",
+              "DocumentMoniker": "C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\Assets\\Scripts\\RotatingSquare.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RotatingSquare.cs",
+              "ToolTip": "C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\Assets\\Scripts\\RotatingSquare.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RotatingSquare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:23:03.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Oscilattor.cs",
+              "DocumentMoniker": "C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\Assets\\Scripts\\Oscilattor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Oscilattor.cs",
+              "ToolTip": "C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\Assets\\Scripts\\Oscilattor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Oscilattor.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:05:35.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Collision.cs",
+              "DocumentMoniker": "C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\Assets\\Scripts\\Collision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collision.cs",
+              "ToolTip": "C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\Assets\\Scripts\\Collision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collision.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAswDAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:10:04.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\Assets\\Scripts\\Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement.cs",
+              "ToolTip": "C:\\Users\\Yagmur\\source\\repos\\Unity\\Unity3D\\Hovering\\Assets\\Scripts\\Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movement.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:15:40.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
